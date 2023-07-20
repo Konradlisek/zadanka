@@ -1,1 +1,1 @@
-alert = "Skrypt działa prawidłowo!";
+window.alert("Skrypt działa prawidłowo!");
